@@ -60,3 +60,18 @@ It is a power function.
 Pi is a constant, not a variable.
 </p>
 </details>
+
+---
+
+###### 6. Is -22<sup>7</sup> an exponential function?
+
+<details><summary>Click the arrow for the answer.</summary>
+<p>
+  
+##### Answer: No
+
+</p>
+</details>
+
+
+
