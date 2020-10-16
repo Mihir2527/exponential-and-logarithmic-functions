@@ -80,7 +80,11 @@ Solving, you get b = 1/4.
 
 The general form of an exponential function is y = ab<sup>x</sup>. So, you need to solve for a and b, and then substitute them into the equation.
 
-Here, at x = 0, y = 4. <img src="https://render.githubusercontent.com/render/math?math=1 = b^0"> no matter the value of b, so a = 4. You can then plug in x = 1 and y = 12 to find that <img src="https://render.githubusercontent.com/render/math?math=12 = 4 \cdot b^1">, therefore <img src="https://render.githubusercontent.com/render/math?math=3 = b">
+Here, at x = 0, y = 4. <img src="https://render.githubusercontent.com/render/math?math=1 = b^0"> no matter the value of b, so a = 4. You can then plug in x = 1 and y = 12 to find that
+
+<img src="https://render.githubusercontent.com/render/math?math=12 = 4 \cdot b^1">
+<p></p>
+<img src="https://render.githubusercontent.com/render/math?math=3 = b">
 
 <p>
 </details>
