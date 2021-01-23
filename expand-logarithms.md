@@ -53,13 +53,25 @@
 
 ---
 
-###### 6. Expand log x<sup>3</sup>y<sup>5</sup>z<sup>2</sup>
+
+###### 6. Expand log<sub>a</sub>x / log<sub>a</sub>b
 
 <details><summary>Click the arrow for the answer.</summary>
 <p>
   
-  ##### Answer: 3 log x + 5 log y + 2 log z
+  ##### Answer: log<sub>b</sub>x
 </p>
 </details>
 
+---
+
+
+###### 7. Expand log x<sup>3</sup>y<sup>5</sup>z<sup>2</sup>
+
+<details><summary>Click the arrow for the answer.</summary>
+<p>
+   ##### Answer: 3 log x + 5 log y + 2 log z
+  </p>
+  </details>
+  
 ---
