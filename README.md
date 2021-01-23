@@ -4,11 +4,11 @@
 
 # Exponential and Logarithmic Functions
 
-This project aims to provide a collection of questions for quick practice of exponential and logarithmic functions.  
+This project aims to provide a collection of questions for quick practice of topic- exponential and logarithmic functions.  
 
 Practice questions can be viewed in the browser by choosing from the list of topics linked below. 
 
-To motivate users to work through the questions by themselves first, the answers are only revealed when clicked. 
+To motivate users to work through the questions by themselves first, the answers are only revealed when clicked by the user.
 
 To start practice, choose from the categories and topics below.
 
