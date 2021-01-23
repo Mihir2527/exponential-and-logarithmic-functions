@@ -52,3 +52,14 @@
 </details>
 
 ---
+
+###### 6. Expand log<sub>a</sub>x / log<sub>a</sub>b
+
+<details><summary>Click the arrow for the answer.</summary>
+<p>
+  
+  ##### Answer: log<sub>b</sub>x
+</p>
+</details>
+
+---
